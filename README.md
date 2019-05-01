@@ -67,6 +67,13 @@ Then the following is the regression result, and we can see that all of them are
 
 ## 6. Conclusion
 
+Based on the foregoing, we draw the following conclusions:
 
-## 8. appendix: code
-![Code_link](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/ols_model.ipynb)
+1. The speed of diffusion varies in the same direction with the return on money holding, trading and psychological utility.            
+
+2. Policies can effectively prevent the spread of Bitcoin. By controlling the intermediary, intermediary and transit platforms of Bitcoin transactions, the government can create obstacles in the process of the conversion of Bitcoin and legal currencies, increase the transaction cost of Bitcoin to a certain extent, and restrain the demand for Bitcoin transactions, investment demand and speculative space. 
+
+## 7. References
+
+## 8. Appendix: code
+[Code_link](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/ols_model.ipynb)
