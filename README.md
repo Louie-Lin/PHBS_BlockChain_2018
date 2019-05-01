@@ -22,8 +22,23 @@ The third is to conbine the economic theories such as monetary principles with t
 
 The fourth is to analyse the economic impact of Bitcoin and puts forward suggestions on regulation. Bryans (2013), ELIAS (2013) , Gruber (2013) and others have carried out research on the regulation of tax avoidance, money laundering and anonymous transactions of Bitcoin. 
 
-## 3. Factors Analysis of Bitcoin's Diffusion Speed 
+## 3. Bitcoin Characteristics and Micro-Diffusion Dynamics 
+This article mainly explores the factors that may affect the speed of Bitcoin diffusion. The first answer is based on the characteristics of Bitcoin and whether it has diffusion power. The answer is yes. Bitcoin has micro-diffusion power because of the following three characteristics. 
 
-## 4. Empirical analysis and Results
+Firstly, Bitcoin has the characteristics of non-nationalization, de-centralization and liberalism. Bitcoin is not issued by the state, and there is no central node to control the currency and transaction management. It relies entirely on technology to achieve currency credit, and each network node is relatively equal. When the money controlled by the government enters the paper money era, the government sometimes overissues the money through its own needs, resulting in excessive money supply and currency devaluation. For individual users, it is usually a loss, and the issuance of Bitcoin cancels the monopoly of the government in issuing currency, bringing users special psychological satisfaction of fairness. 
 
-## 5. Conclusion
+Secondly, Bitcoin has the characteristics of total amount control, uniform currency issuance and deflation. Bitcoin issuing process is a hash algorithm decryption process carried out by computers on the network. Obtaining Bitcoin can be regarded as a reward for successful calculation and decryption. But the network protocol controls the total amount of money and the rhythm of currency issuance: there are finally 21 million bitcoins issued totally in 2140. With a certain amount of aggregate control, the public foresees deflation. As a result, the public will begin to participate in Bitcoin coin issuance, speculation and reserve in order to appreciate. 
+
+Thirdly, Bitcoin has the advantages of concealment, transnational, mobility, convenience, security and unlimited separability. As a password currency, Bitcoin accounts do not reveal personal information, coupled with the lack of central agency control, the transaction has partial concealment. As a network currency, transactions are not subject to national boundaries, and transnational payment has little additional costs, so it can be used as a tool of exchange. At the same time, because of the distributed database with the whole network computing power as a security guarantee, the security and vitality of the network are also strongly guaranteed. To meet many special needs, Bitcoin has become one of the mainstream currencies in the underground economy. 
+
+## 4. 
+
+
+## 5. Empirical analysis and Results
+This paper adopts the open data of **blockchain.info**, the largest online wallet and data statistics website of Bitcoin in the world. The time interval is 213.05.01-2018.09.01, and the data is daily data.
+
+As regard to the diffusion rate, the daily increase in the number of users of **my wallet**, the world's largest online Bitcoin wallet, is used as the proxy variable. As regard to **exc**, this paper uses the first-order difference of Bitcoin dollar price as the proxy variable, reflecting the earnings of holding money. As regard to **tra**, this paper uses the daily trading scale of Bitcoin as the proxy variable. The larger the scale, the lower the transaction cost, that is, the higher the transaction return. As for **psy**, this paper uses the proportion of miners'income in total trading volume as the proxy variable, because mining is the most unique monetary experience of Bitcoin users, with a high degree of participation and psychological satisfaction, which can be used to describe the psychological utility of Bitcoin users. 
+
+
+
+## 6. Conclusion
