@@ -35,7 +35,9 @@ Thirdly, Bitcoin has the advantages of concealment, transnational, mobility, con
 Han's paper (2015) establishes an evolutionary game model in which the public can choose to use or not use Bitcoin. The return matrix of two different strategies for the public is as follows: 
 
 where the **psy** is the psychological utility of using bitcoin, **exc** is the benefit of the appreciation (or depreciation) of bitcoin and **tra** is the benefit of the transaction of bitcoin.
-If the proportion of people using Bitcoin is \eta , then the average income of the group is: 
+If the proportion of people using Bitcoin is <img src="https://latex.codecogs.com/gif.latex?\eta" title="\eta" /> , then the average income of the group is: 
+
+The following are the evolutionary time maps of  <img src="https://latex.codecogs.com/gif.latex?\eta" title="\eta" />  under different conditions. It can be seen that **psy, exc and tra** are all factors affecting the diffusion speed of bitcoin. 
 
 
 ## 5. Empirical analysis and Results
@@ -43,6 +45,8 @@ This paper adopts the open data of **blockchain.info**, the largest online walle
 
 As regard to the diffusion rate, the daily increase in the number of users of **my wallet**, the world's largest online Bitcoin wallet, is used as the proxy variable. As regard to **exc**, this paper uses the first-order difference of Bitcoin dollar price as the proxy variable, reflecting the earnings of holding money. As regard to **tra**, this paper uses the daily trading scale of Bitcoin as the proxy variable. The larger the scale, the lower the transaction cost, that is, the higher the transaction return. As for **psy**, this paper uses the proportion of miners'income in total trading volume as the proxy variable, because mining is the most unique monetary experience of Bitcoin users, with a high degree of participation and psychological satisfaction, which can be used to describe the psychological utility of Bitcoin users. 
 
+According to the hypothesis, the equation is constructed as follows: 
 
+Then the following is the regression result, and we can see that all of them are significant.
 
 ## 6. Conclusion
