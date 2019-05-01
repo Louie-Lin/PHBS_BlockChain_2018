@@ -75,5 +75,21 @@ Based on the foregoing, we draw the following conclusions:
 
 ## 7. References
 
+Dániel Kondor, Márton Pósfai, István Csabai, & Gábor Vattay. (2014). Do the rich get richer? an empirical analysis of the bitcoin transaction network. PLOS ONE, 9.
+
+Gruber, S. M. . (2013). Trust, identity, and disclosure:, are bitcoin exchanges the next virtual havens for money laundering and tax evasion?. Social Science Electronic Publishing.
+
+Han Yuguang. (2016). Internet Financial Evolution: Bitcoin Research. (Doctoral dissertation)
+
+Luther, & William, J. . (2016). Cryptocurrencies, network effects, and switching costs. Contemporary Economic Policy, 34(3), 553-571.
+
+Sun Qiming, Wang Haoyu, & Pan Zhijun. (2014). Exploration of the World Monetary Characteristics of Bitcoin. Journal of Beijing University of Posts and Telecommunications (Social Science Edition), 16 (1), 31-37.
+
+Teigland, R. , Yetis, Z. , & Larsson, T. . (0). Breaking out of the bank in europe - exploring collective emergent institutional entrepreneurship through bitcoin. Social Science Electronic Publishing.
+
+Wu Hong, Fang Yingqing, Zhang Ying. Crazy Digital Currency: The Nature and Enlightenment of Bitcoin [J]. Journal of Beijing University of Posts and Telecommunications: Social Science Edition, 2012 (3): 46-50.
+
+Zhao Yandong, & Zheng Li. (2014). An Analysis of the Impact of Bitcoin on Renminbi Based on Transaction Model. Journal of Beijing University of Posts and Telecommunications (Social Science Edition), 16 (1), 38-42.
+
 ## 8. Appendix: code
 [Code_link](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/ols_model.ipynb)
