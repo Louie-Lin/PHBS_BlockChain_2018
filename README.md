@@ -53,11 +53,13 @@ The following are the evolutionary time maps of  <img src="https://latex.codecog
 ## 5. Empirical analysis and Results
 This paper adopts the open data of **blockchain.info**, the largest online wallet and data statistics website of Bitcoin in the world. The time interval is 2013.05.01-2018.09.01, and the data is daily data.
 
-As regard to the diffusion rate, the daily increase in the number of users of **my wallet**, the world's largest online Bitcoin wallet, is used as the proxy variable. As regard to **exc**, this paper uses the first-order difference of Bitcoin dollar price as the proxy variable, reflecting the earnings of holding money. As regard to **tra**, this paper uses the daily trading scale of Bitcoin as the proxy variable. The larger the scale, the lower the transaction cost, that is, the higher the transaction return. As for **psy**, this paper uses the proportion of miners'income in total trading volume as the proxy variable, because mining is the most unique monetary experience of Bitcoin users, with a high degree of participation and psychological satisfaction, which can be used to describe the psychological utility of Bitcoin users. 
+As regard to the diffusion rate, the daily increase in the number of users of **my wallet**, the world's largest online Bitcoin wallet, is used as the proxy variable. As regard to **exc**, this paper uses the first-order difference of Bitcoin dollar price as the proxy variable, reflecting the earnings of holding money. As regard to **tra**, this paper uses the daily trading scale of Bitcoin as the proxy variable. The larger the scale, the lower the transaction cost, that is, the higher the transaction return. As for **psy**, this paper uses the proportion of miners' income in total trading volume as the proxy variable, because mining is the most unique monetary experience of Bitcoin users, with a high degree of participation and psychological satisfaction, which can be used to describe the psychological utility of Bitcoin users. 
 
 According to the hypothesis, the equation is constructed as follows: 
 
 ![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/formula_2.png?raw=true)
+
+Where the **psy** is the proportion of miners' income in total trading volume, named **cost_per_transaction_percent**; The **exc** is first-order difference of Bitcoin dollar price, named **diff_usdprice**; The **tra** is the daily trading scale of Bitcoin, named **n_transactions**; 
 
 Then the following is the regression result, and we can see that all of them are significant.
 
