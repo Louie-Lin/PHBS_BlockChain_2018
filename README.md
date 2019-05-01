@@ -35,7 +35,7 @@ Thirdly, Bitcoin has the advantages of concealment, transnational, mobility, con
 Han's paper (2015) establishes an evolutionary game model in which the public can choose to use or not use Bitcoin. The return matrix of two different strategies for the public is as follows: 
 
 where the **psy** is the psychological utility of using bitcoin, **exc** is the benefit of the appreciation (or depreciation) of bitcoin and **tra** is the benefit of the transaction of bitcoin.
-If the proportion of people using Bitcoin is $\eta$, then the average income of the group is: 
+If the proportion of people using Bitcoin is \eta , then the average income of the group is: 
 
 
 ## 5. Empirical analysis and Results
