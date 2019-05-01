@@ -8,12 +8,17 @@ The concept of Bitcoin was first proposed by Nakamoto on November 1, 2008, and w
 
 Bitcoin started with cryptography enthusiasts and cyberliberals. Its acquisition process is similar to the reward of cloud computing network puzzle-solving games. It has no market value and belongs to their hobbies. Subsequently, under the dual effects of pioneer demonstration and media publicity, the functions and characteristics of Bitcoin have been gradually discovered. As a result, the recipients have gradually moved from a small circle to the public, and the number of recipients and transactions has been increasing. The value of Bitcoin has also begun to fluctuate sharply but rising rapidly. The development of Bitcoin is shown in the following figure.  
 
+![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/n_users.png?raw=true)
+
+![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/usd_price_bitcoin.png?raw=true)
+
 As a new currency, the public, scholars and the government have different views on Bitcoin. Proponents believe that it has the characteristics of the world currency, indicating the future of the monetary system; the opponents believe that it can not overcome its own shortcomings, prosperity is just a bubble, and will eventually burst. Although different governments have different definitions of Bitcoin, they mostly adopt policies that neither support nor completely prohibit Bitcoin, with some reservations. As a result, Bitcoin's market has always been volatile, because no one has the absolute advantage. 
 
 ## 2. Literature Research on Bitcoin
 The research of Bitcoin in academic circles is mainly carried out at three levels: technology, economics and law. Among them, in the economic level, mainly around the four directions.
 
 One is the introduction of Bitcoin's principle, characteristics, empirical research and forecasting analysis. Zhao Yandong et al. (2014) analyzed the credit characteristics of Bitcoin and its trading mode with RMB, believing that Bitcoin has certain investment value, but will not become the legal currency in the real world. Wu Hong et al. (2013) analyzed the background and reasons for the emergence of Bitcoin, compared and found that Bitcoin and gold index data in a certain period of time basically synchronized, providing the possibility that Bitcoin can act as a digital currency. 
+
 
 
 The second is the research on the internal structure and development trend of Bit coin. Teigland et al. (2013) took the Bitcoin community as an institutionalized enterprise, analyzed its organizational structure and network structure, pointed out its strong self-repairing characteristics; Kondor et al. (2013) studied the evolution characteristics of its network structure and currency distribution through the empirical analysis of the time series of Bitcoin network characteristic data. 
@@ -34,11 +39,16 @@ Thirdly, Bitcoin has the advantages of concealment, transnational, mobility, con
 ## 4. Evolutionary Game Model(Han et al. 2015)
 Han's paper (2015) establishes an evolutionary game model in which the public can choose to use or not use Bitcoin. The return matrix of two different strategies for the public is as follows: 
 
+![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/return_matrix.png?raw=true)
+
 where the **psy** is the psychological utility of using bitcoin, **exc** is the benefit of the appreciation (or depreciation) of bitcoin and **tra** is the benefit of the transaction of bitcoin.
 If the proportion of people using Bitcoin is <img src="https://latex.codecogs.com/gif.latex?\eta" title="\eta" /> , then the average income of the group is: 
 
+![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/formula.png?raw=true)
+
 The following are the evolutionary time maps of  <img src="https://latex.codecogs.com/gif.latex?\eta" title="\eta" />  under different conditions. It can be seen that **psy, exc and tra** are all factors affecting the diffusion speed of bitcoin. 
 
+![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/evolutionary_game_model%20.png?raw=true)
 
 ## 5. Empirical analysis and Results
 This paper adopts the open data of **blockchain.info**, the largest online wallet and data statistics website of Bitcoin in the world. The time interval is 2013.05.01-2018.09.01, and the data is daily data.
@@ -47,6 +57,10 @@ As regard to the diffusion rate, the daily increase in the number of users of **
 
 According to the hypothesis, the equation is constructed as follows: 
 
+![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/formula_2.png?raw=true)
+
 Then the following is the regression result, and we can see that all of them are significant.
+
+![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/ols_result.png?raw=true)
 
 ## 6. Conclusion
