@@ -66,3 +66,7 @@ Then the following is the regression result, and we can see that all of them are
 ![image](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/ols_result.png?raw=true)
 
 ## 6. Conclusion
+
+
+## 8. appendix: code
+![Code_link](https://github.com/Louie-Lin/PHBS_BlockChain_2018/blob/master/ols_model.ipynb)
