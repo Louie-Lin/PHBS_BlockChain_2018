@@ -31,7 +31,11 @@ Secondly, Bitcoin has the characteristics of total amount control, uniform curre
 
 Thirdly, Bitcoin has the advantages of concealment, transnational, mobility, convenience, security and unlimited separability. As a password currency, Bitcoin accounts do not reveal personal information, coupled with the lack of central agency control, the transaction has partial concealment. As a network currency, transactions are not subject to national boundaries, and transnational payment has little additional costs, so it can be used as a tool of exchange. At the same time, because of the distributed database with the whole network computing power as a security guarantee, the security and vitality of the network are also strongly guaranteed. To meet many special needs, Bitcoin has become one of the mainstream currencies in the underground economy. 
 
-## 4. 
+## 4. Evolutionary Game Model(Han et al. 2015)
+Han's paper (2015) establishes an evolutionary game model in which the public can choose to use or not use Bitcoin. The return matrix of two different strategies for the public is as follows: 
+
+where the **psy** is the psychological utility of using bitcoin, **exc** is the benefit of the appreciation (or depreciation) of bitcoin and **tra** is the benefit of the transaction of bitcoin.
+If the proportion of people using Bitcoin is $\eta$, then the average income of the group is: 
 
 
 ## 5. Empirical analysis and Results
